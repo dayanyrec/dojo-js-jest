@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "A JS Dojo project using Jest",
   "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
   "author": "Dayany Espindola <dayanyrec@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
 }
