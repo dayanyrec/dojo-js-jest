@@ -6,9 +6,16 @@
   "scripts": {
     "test": "jest"
   },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
+  },
   "author": "Dayany Espindola <dayanyrec@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "babel-jest": "^22.1.0",
+    "babel-preset-env": "^1.6.1",
     "jest": "^22.1.4"
   }
 }
