@@ -1,0 +1,8 @@
+{
+  "name": "dojo-js-jest",
+  "version": "1.0.0",
+  "description": "A JS Dojo project using Jest",
+  "main": "main.js",
+  "author": "Dayany Espindola <dayanyrec@gmail.com>",
+  "license": "MIT"
+}
